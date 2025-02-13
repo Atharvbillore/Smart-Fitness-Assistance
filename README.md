@@ -26,7 +26,7 @@ results and reducing the risk of injury.
 - NumPy - For numerical operations.
 - Scikit-learn - For ML (Random Forest Classifier).
 
-# Usage/Example:
+## Usage/Example:
 
 1. Install Dependencies
    Ensure you have Python installed, then install the required libraries:
